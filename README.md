@@ -12,7 +12,7 @@ I am currently learning Frontend Development and Machine learning
 - 😄 Pronouns: He/Him 
 - ⚡ Fun fact: I love to Talk a lot 
 
-https://github-readme-stats.vercel.app/api?username=suyashpatil400&count_private=true&show_icons=true&theme=radical
+https://github-readme-stats.vercel.app/api?username=PAARTH2608&count_private=true&show_icons=true&theme=radical
 ## My Skills and Experience
 + HTML, CSS, JAVASCRIPT
 + BOOTSTRAP
