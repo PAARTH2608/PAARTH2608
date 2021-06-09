@@ -1,6 +1,6 @@
 ### Hi there 👋, PAARTH
 #### Web Development and Machine Learning
-![My Website](https://github.com/PAARTH2608/portfolio_website)
+![My Website](https://paarth2608.github.io/portfolio_website/)
 
 I am currently learning Frontend Development and Machine learning 
 . I wanted to develop my skills in Computer Vision and Neural Networks so that I can provide a solution to real world problems.
