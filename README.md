@@ -5,8 +5,6 @@
 I am currently learning Frontend Development and Machine learning 
 . I wanted to develop my skills in Computer Vision and Neural Networks so that I can provide a solution to real world problems.
 
-Skills: HTML / CSS / JAVASCRIPT / PYTHON / C / C++ / BOOTSTRAP / OPENCV / PHOTOSHOP / FIGMA
-
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning Machine Learning and Frontend  
 - 👯 I’m looking to collaborate on ML and Frontend Projects 
