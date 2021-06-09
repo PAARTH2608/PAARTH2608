@@ -7,5 +7,5 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love to explore space
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PAARTHJAIN2608)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PAARTH2608)](https://github.com/anuraghazra/github-readme-stats)
 
