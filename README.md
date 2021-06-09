@@ -8,7 +8,7 @@
 - 😄 Pronouns: He/Him 
 - ⚡ Fun fact: I love to Talk a lot 
 
-## MY GIT STATS
+## STATS
 <img src="https://github-readme-stats.vercel.app/api?username=PAARTH2608&&show_icons=true&count_private=true&theme=radical"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=PAARTH2608&theme=radical"/>|
 |---|---|
 
