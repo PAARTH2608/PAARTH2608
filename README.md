@@ -2,6 +2,10 @@
 #### Web Development and Machine Learning
 ![My Website](https://paarth2608.github.io/portfolio_website/)
 
+## MY GIT STATS
+<img src="https://github-readme-stats.vercel.app/api?username=PAARTH2608&&show_icons=true&count_private=true&theme=radical"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=PAARTH2608&theme=radical"/>|
+|---|---|
+
 I am currently learning Frontend Development and Machine learning 
 . I wanted to develop my skills in Computer Vision and Neural Networks so that I can provide a solution to real world problems.
 
@@ -13,9 +17,6 @@ I am currently learning Frontend Development and Machine learning
 - ⚡ Fun fact: I love to Talk a lot 
 
 
-## MY GIT STATS
-<img src="https://github-readme-stats.vercel.app/api?username=PAARTH2608&&show_icons=true&count_private=true&theme=radical"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=PAARTH2608&theme=radical"/>|
-|---|---|
 
 ## My Skills and Experience
 + HTML, CSS, JAVASCRIPT
