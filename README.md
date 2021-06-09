@@ -12,7 +12,11 @@ I am currently learning Frontend Development and Machine learning
 - 😄 Pronouns: He/Him 
 - ⚡ Fun fact: I love to Talk a lot 
 
-https://github-readme-stats.vercel.app/api?username=PAARTH2608&count_private=true&show_icons=true&theme=radical
+
+## MY GIT STATS
+<img src="https://github-readme-stats.vercel.app/api?username=dhanrajdc7&&show_icons=true&count_private=true&theme=radical"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=dhanrajdc7&theme=radical"/>|
+|---|---|
+
 ## My Skills and Experience
 + HTML, CSS, JAVASCRIPT
 + BOOTSTRAP
