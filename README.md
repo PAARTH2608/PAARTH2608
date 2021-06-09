@@ -4,14 +4,14 @@
 
 I am currently learning Frontend Development and Machine learning 
 . I wanted to develop my skills in Computer Vision and Neural Networks so that I can provide a solution to real world problems.
+Skills: HTML / CSS / JAVASCRIPT / PYTHON / C / C++ / BOOTSTRAP / OPENCV / PHOTOSHOP / FIGMA
 
-- 🔭 I’m currently working on this page. 
+- 🔭 I’m currently working on my portfolio website.
 - 🌱 I’m currently learning Machine Learning and Frontend  
 - 👯 I’m looking to collaborate on ML and Frontend Projects 
 - 💬 Ask me about ML and Frontend 
 - 😄 Pronouns: He/Him 
 - ⚡ Fun fact: I love to Talk a lot 
-
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PAARTH2608)](https://github.com/anuraghazra/github-readme-stats)
 
