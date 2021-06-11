@@ -15,7 +15,7 @@
 I am currently learning Frontend Development and Machine learning 
 . I wanted to develop my skills in Computer Vision and Neural Networks so that I can provide a solution to real world problems.
 
-![My Website](https://paarth2608.github.io/portfolio_website/)
+[My Website](https://paarth2608.github.io/portfolio_website/)
 
 ## My Skills and Experience
 + HTML, CSS, JAVASCRIPT
