@@ -1,8 +1,6 @@
 ### Hi there 👋, I am PAARTH
 
-
-- 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning Machine Learning and Frontend  
+- 🌱 I’m currently learning Machine Learning and Frontend Development 
 - 👯 I’m looking to collaborate on ML and Frontend Projects 
 - 💬 Ask me about ML and Frontend 
 - 😄 Pronouns: He/Him 
