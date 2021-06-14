@@ -24,6 +24,8 @@ I am currently learning Frontend Development and Machine learning
 + PYTHON & OPENCV
 + FIGMA AND PHOTOSHOP
 + MATLAB
++ <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=PAARTH2608&show_icons=true&locale=en&layout=compact" alt="PAARTH2608" /></p>
+
 
 
 
