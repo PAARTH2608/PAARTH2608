@@ -9,7 +9,6 @@
 ## STATS
 <img src="https://github-readme-stats.vercel.app/api?username=PAARTH2608&&show_icons=true&count_private=true&theme=radical"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=PAARTH2608&theme=radical"/>|
 |---|---|
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=PAARTH2608&show_icons=true&locale=en&layout=compact" alt="PAARTH2608" /></p>
 
 
 I am currently learning Frontend Development and Machine learning 
@@ -17,8 +16,7 @@ I am currently learning Frontend Development and Machine learning
 
 [My Website](https://paarth2608.github.io/portfolio_website/)
 
-<br>
-<br>
+
 ## My Skills and Experience
 + HTML, CSS, JAVASCRIPT
 + BOOTSTRAP
