@@ -17,7 +17,8 @@ I am currently learning Frontend Development and Machine learning
 
 [My Website](https://paarth2608.github.io/portfolio_website/)
 
-
+<br>
+<br>
 ## My Skills and Experience
 + HTML, CSS, JAVASCRIPT
 + BOOTSTRAP
