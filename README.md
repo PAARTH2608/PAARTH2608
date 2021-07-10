@@ -18,7 +18,7 @@ I am currently learning Frontend Development and Machine learning
 + HTML, CSS, JAVASCRIPT
 + BOOTSTRAP
 + C & C++
-+ PYTHON & OPENCV
++ PYTHON 
 + FIGMA AND PHOTOSHOP
 + MATLAB
 
