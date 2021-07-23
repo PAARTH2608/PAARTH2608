@@ -1,7 +1,7 @@
 ### Hi there 👋, I am PAARTH
 
-- 🌱 I’m currently learning Machine Learning and Frontend Development 
-- 💬 Ask me about ML and Frontend 
+- 🌱 I’m currently learning Machine Learning and React.JS
+- 💬 Ask me about Python and Javascript
 - 😄 Pronouns: He/Him 
 - ⚡ Fun fact: I love to Talk a lot 
 
