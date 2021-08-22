@@ -9,12 +9,13 @@
 <img src="https://github-readme-stats.vercel.app/api?username=PAARTH2608&&show_icons=true&count_private=true&theme=radical"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=PAARTH2608&theme=radical"/>|
 |---|---|
 
-I am currently learning Frontend Development and Machine learning 
+I am currently learning React.JS and Machine learning 
 . I wanted to develop my skills in Computer Vision and Neural Networks so that I can provide a solution to real world problems.
 
 [My Website](https://paarth2608.github.io/portfolio_website/)
 
 ## My Skills and Experience
++ React.JS
 + HTML, CSS, JAVASCRIPT
 + BOOTSTRAP
 + C & C++
