@@ -1,6 +1,6 @@
 ### Hi there 👋, I am PAARTH
 
-- 🌱 I’m currently learning Machine Learning and React.JS
+- 🌱 I’m currently learning Machine Learning and ReactJS
 - 💬 Ask me about Python and Javascript
 - 😄 Pronouns: He/Him 
 - ⚡ Fun fact: I love to Talk a lot 
@@ -16,10 +16,12 @@ I am currently learning React.JS and Machine learning
 
 ## My Skills and Experience
 + React.JS
-+ HTML, CSS, JAVASCRIPT
-+ BOOTSTRAP
++ NodeJS
++ OpenCV
 + C & C++
 + PYTHON 
++ HTML, CSS, JAVASCRIPT
++ BOOTSTRAP
 + FIGMA AND PHOTOSHOP
 + MATLAB
 
