@@ -16,7 +16,6 @@ I am currently learning React.JS and Machine learning
 
 ## My Skills and Experience
 + React.JS
-+ NodeJS
 + OpenCV
 + C & C++
 + PYTHON 
