@@ -1,7 +1,7 @@
 ### Hi there 👋, I am PAARTH
 
 - 🌱 I’m currently learning Machine Learning and ReactJS
-- I am currently working on [Smart PDF's](https://smart-pdfs.herokuapp.com/)
+- 💥 I am currently working on [Smart PDF's](https://smart-pdfs.herokuapp.com/)
 - 💬 Ask me about Python and Javascript
 - 😄 Pronouns: He/Him 
 - ⚡ Fun fact: I love to Talk a lot 
