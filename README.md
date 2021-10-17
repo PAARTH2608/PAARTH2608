@@ -20,7 +20,7 @@
 
 ## 🚀 Languages and Tools:
 
-<p align="center" padding="200px"> 
+<p align="center" margin="200px"> 
     <a href="https://www.c++.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus.png"/> </a>
     <a href="https://www.c.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c.png"/> </a>
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java.png"/> </a>
