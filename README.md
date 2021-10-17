@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **[Smart PDF's](https://github.com/PAARTH2608/Smart-PDFs-Frontend)**
 
-- 🌱 I’m currently learning **Data Structures and Algorithms.**
+- 🌱 I’m currently learning **REACT.JS and Machine Learning**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
@@ -73,6 +73,7 @@
 <a href = "https://twitter.com/PAARTHJAIN7"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/_paarth7_/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href = "https://github.com/PAARTH2608"><img src="https://img.icons8.com/fluent/48/000000/github.png"/></a>
+<a href = "https://www.facebook.com/paarth.jain.906/"><img src="https://img.icons8.com/fluent/48/000000/facebook.png"/></a>
    
 
 </p>
