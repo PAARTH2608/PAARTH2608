@@ -67,7 +67,7 @@
 <br/>
 
 ## Connect with me:
-<p align="center" style="width: 90%; margin: auto;">
+<p align="center">
 
 <a href = "https://www.linkedin.com/in/paarth-jain-470522208/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/PAARTHJAIN7"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
