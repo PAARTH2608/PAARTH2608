@@ -2,10 +2,6 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Paarth</h1>
 <h3 align="center">I'm a Full Stack Developer and Machine Learning enthusiast.</h3>
-[![PAARTH's GitHub stats](https://github-readme-stats.vercel.app/api?username=PAARTH2608)](https://github.com/PAARTH2608/github-readme-stats)
-
-
-
 
 ## 🙋‍♂️ About Me
 
@@ -46,9 +42,9 @@
 <br/>
 
 <p align="center">
-    <a href="https://github.com/PAARTH2608/github-readme-streak-stats">
+<!--     <a href="https://github.com/PAARTH2608/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="PAARTH's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=PAARTH2608&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
+    </a> -->
 </p>
 
 ## 📊 My Github Stats
