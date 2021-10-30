@@ -46,6 +46,7 @@
     <a href="https://github.com/PAARTH2608/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="PAARTH's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=PAARTH2608"/>
     </a>
+    [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
 </p>
 
 ## 📊 My Github Stats
