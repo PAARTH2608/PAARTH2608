@@ -2,7 +2,8 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Paarth</h1>
 <h3 align="center">I'm a Full Stack Developer and Machine Learning enthusiast.</h3>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
+[![PAARTH's GitHub stats](https://github-readme-stats.vercel.app/api?username=PAARTH2608)](https://github.com/PAARTH2608/github-readme-stats)
+
 
 
 
