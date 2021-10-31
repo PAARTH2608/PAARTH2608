@@ -40,12 +40,12 @@
 <br/>
 
 <p align="center">
-<!--     <a href="https://github.com/PAARTH2608/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="PAARTH's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=PAARTH2608&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a> -->
     <a href="https://github.com/PAARTH2608/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="PAARTH's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=PAARTH2608&theme=tokyonight_duo"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="PAARTH's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=PAARTH2608&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
+<!--     <a href="https://github.com/PAARTH2608/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="PAARTH's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=PAARTH2608&theme=tokyonight_duo"/>
+    </a> -->
     
 </p>
 
