@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **[Smart PDF's](https://github.com/PAARTH2608/Smart-PDFs-Frontend)**
 
-- 🌱 I’m currently learning **REACT.JS and Machine Learning**
+- 🌱 I’m currently learning **MERN Stack and Machine Learning**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
