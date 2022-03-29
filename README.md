@@ -5,13 +5,13 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Smart PDF's](https://github.com/PAARTH2608/Smart-PDFs-Frontend)**
+- 🔭 I’m currently working on **[Mender](https://github.com/PAARTH2608/Mender)**
 
 - 🌱 I’m currently learning **MERN Stack and Machine Learning**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://paarth2608.github.io/portfolio_website/)**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://portfolio-czuxff77m-paarth2608.vercel.app/)**
 
 - 📫 How to reach me **jain.paarth2608@gmail.com**
 
