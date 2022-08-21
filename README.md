@@ -5,7 +5,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Mender](https://github.com/PAARTH2608/Mender)**
+- 🔭 I’m currently working on **[No-Excuses](https://github.com/Cypher-Dawgs/)**
 
 - 🌱 I’m currently learning **MERN Stack and Machine Learning**
 
