@@ -2,6 +2,8 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Paarth</h1>
 <h3 align="center">I'm a Full Stack Developer and Machine Learning Engineer.</h3>
+<h3 align="center">My ultimate goal is to provide digital solutions that can impact the lives of people in a positive way by utilizing my knowledge in web
+ development and machine learning.</h3>
 
 ## 🙋‍♂️ About Me
 
