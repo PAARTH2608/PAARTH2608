@@ -7,13 +7,13 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[No-Excuses](https://github.com/Cypher-Dawgs/)**
+- 🔭 I’m currently working on Music.AI
 
 - 🌱 I’m currently learning **MERN Stack and Machine Learning**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://portfolio-czuxff77m-paarth2608.vercel.app/)**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://portfolio-paarth.vercel.app/)**
 
 - 📫 How to reach me **jain.paarth2608@gmail.com**
 
