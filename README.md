@@ -5,6 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=paarth2608&label=Profile%20views&color=0e75b6&style=flat" alt="paarth2608" style={{background: "transparent"}} > </p>
 
 <h3 align="left">About Me:</h3>
+
 - 🔭 I’m currently working on [Music.AI](https://github.com/MusicAI-Org)
 
 - 🌱 I’m currently learning **Golang, Docker and Kubernetes**
