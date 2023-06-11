@@ -1,6 +1,10 @@
 <!-- [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io) -->
 <h1 align="center">Hi 👋, I'm Paarth Jain</h1>
-<h3 align="center">A Full Stack Web Developer and Machine Learning Engineer</h3>
+<div>
+  <h3 align="center">A Full Stack Web Developer and Machine Learning Engineer</h3>
+  
+</div>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=paarth2608&label=Profile%20views&color=0e75b6&style=flat" alt="paarth2608" style={{background: "transparent"}} > </p>
 
@@ -18,7 +22,7 @@
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1DAfoLCHGxwDIrW6kN1ux8umaSpAR3vET/view?usp=sharing)
 
-- ⚡ Fun fact **I love sauce**
+- ⚡ Fun fact **I love sauce more than sausages**
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=paarth2608" alt="paarth2608" /></a> </p>
 
