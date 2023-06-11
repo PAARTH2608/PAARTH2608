@@ -1,7 +1,7 @@
 <!-- [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io) -->
 <h1 align="center">Hi 👋, I'm Paarth Jain</h1>
 <h3 align="center">A Full Stack Web Developer and Machine Learning Engineer</h3>
-<img align="right" alt="Coding" width="400" src="https://e7.pngegg.com/pngimages/578/658/png-clipart-web-development-web-developer-web-design-software-developer-web-design-furniture-search-engine-optimization-thumbnail.png" />
+<img align="right" alt="Coding" width="400" src="https://img.lovepik.com/element/45009/1966.png_860.png" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=paarth2608&label=Profile%20views&color=0e75b6&style=flat" alt="paarth2608" /> </p>
 
