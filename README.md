@@ -16,7 +16,7 @@
 
 - 👨‍💻 All of my projects are available at [https://its-paarth7.vercel.app/](https://its-paarth7.vercel.app/)
 
-- 💬 Ask me about **Reactjs, Expressjs, Go, Java, Data Structures**
+- 💬 Ask me about **Full Stack Development, Artificial Neural Networks, Go, Java, Data Structures**
 
 - 📫 How to reach me **jain.paarth2608@gmail.com**
 
