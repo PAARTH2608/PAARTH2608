@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=paarth2608&label=Profile%20views&color=0e75b6&style=flat" alt="paarth2608" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=paarth2608" alt="paarth2608" /></a> </p>
-
 - 🔭 I’m currently working on [Music.AI](https://github.com/MusicAI-Org)
 
 - 🌱 I’m currently learning **Golang, Docker and Kubernetes**
@@ -20,6 +18,8 @@
 - 📄 Know about my experiences [https://drive.google.com/file/d/1DAfoLCHGxwDIrW6kN1ux8umaSpAR3vET/view?usp=sharing](https://drive.google.com/file/d/1DAfoLCHGxwDIrW6kN1ux8umaSpAR3vET/view?usp=sharing)
 
 - ⚡ Fun fact **I love sauce**
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=paarth2608" alt="paarth2608" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
