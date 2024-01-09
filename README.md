@@ -1,8 +1,7 @@
 <!-- [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io) -->
 <h1 align="center">Hi 👋, I'M PAARTH JAIN</h1>
 <div>
-  <h3 align="center">A Full Stack Web Developer and Machine Learning Engineer</h3>
-  
+  <h3 align="center">A Full Stack Developer with an Entrepreneur Mindset.</h3>
 </div>
 
 
