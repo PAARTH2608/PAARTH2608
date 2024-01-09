@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **jain.paarth2608@gmail.com**
 
-- 📄 Know about my experiences [RESUME](https://drive.google.com/file/d/1gqndhFm9cj0RDrYZ26EvfiZfRW7r8bku/view?usp=sharing)
+- 📄 Know about my experiences [RESUME](https://drive.google.com/file/d/1w9D6hB1m91HlECguuGRFpPI9Z9_ffk9b/view?usp=drive_link)
 
 - ⚡ Fun fact **I love sauce more than sausages**
 - 👩‍💻 ****ACHIEVEMENT**** Our team won 2nd prize and best design in Vinhack'23 for developing a full stack solution to the problem faced by patients and for early response time and efficient management of the hospital system [DOC-UDI](https://github.com/DOC-UDI)
@@ -60,11 +60,16 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)
 
 <h3 align="left">STATS: </h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=paarth2608&show_icons=true&locale=en&layout=compact" alt="paarth2608" /></p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=paarth2608&show_icons=true&locale=en&layout=compact" alt="paarth2608" /></p> -->
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=paarth2608&show_icons=true&locale=en" alt="paarth2608" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=paarth2608&show_icons=true&locale=en" alt="paarth2608" /></p> -->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=paarth2608&" alt="paarth2608" /></p>
+<!--  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=paarth2608&" alt="paarth2608" /></p> -->
+
+[![](https://raw.githubusercontent.com/PAARTH2608/github-templates/master/profile-summary-card-output/github_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/PAARTH2608/github-templates/master/profile-summary-card-output/github_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/PAARTH2608/github-templates/master/profile-summary-card-output/github_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/PAARTH2608/github-templates/master/profile-summary-card-output/github_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/PAARTH2608/github-templates/master/profile-summary-card-output/github_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
 
 <h3 align="left">CONNECT WITH ME:</h3>
 <p align="left">
