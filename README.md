@@ -7,6 +7,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=paarth2608&label=Profile%20views&color=0e75b6&style=flat" alt="paarth2608" style={{background: "transparent"}} > </p>
 
+☕ [BUY ME A COFFEE](https://www.buymeacoffee.com/paarth07)
+
 <h3 align="left">👨‍💻 ABOUT ME:</h3>
 
 - 🔭 I’m currently working on [Music.AI](https://github.com/MusicAI-Org)
@@ -68,7 +70,6 @@
 [![](https://raw.githubusercontent.com/PAARTH2608/github-templates/master/profile-summary-card-output/github_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/PAARTH2608/github-templates/master/profile-summary-card-output/github_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/PAARTH2608/github-templates/master/profile-summary-card-output/github_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/PAARTH2608/github-templates/master/profile-summary-card-output/github_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/PAARTH2608/github-templates/master/profile-summary-card-output/github_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
 
 <h3 align="left">CONNECT WITH ME:</h3>
 <p align="left">
