@@ -26,6 +26,12 @@
 - ⚡ Fun fact **I love sauce more than sausages**
 - 👩‍💻 ****ACHIEVEMENT**** Our team won 2nd prize and best design in Vinhack'23 for developing a full stack solution to the problem faced by patients and for early response time and efficient management of the hospital system [DOC-UDI](https://github.com/DOC-UDI)
 
+<h3 align="left">📰 ARTICLES:</h3>
+
+- 🚀 Decoding Node.js - Behind the scenes [Link](https://medium.com/@paarth.jain/decoding-node-js-behind-the-scenes-5778bb70da82)
+
+- 🐳 Getting started with Docker [Link](https://itspaarth7.hashnode.dev/getting-started-with-docker-a-beginners-guide)
+
 <h3 align="left">🛠 LANGUAGES AND TOOLS:</h3> 
 
 - **LANGUAGES**
