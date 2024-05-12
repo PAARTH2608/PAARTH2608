@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on [Music.AI](https://github.com/MusicAI-Org)
 
-- 🌱 I’m currently learning **Springboot, Docker and Kubernetes**
+- 🌱 I’m currently learning **Rust, Springboot and Docker and Kubernetes**
 
 - 👨‍💻 All of my projects are available at [https://its-paarth7.vercel.app/](https://its-paarth7.vercel.app/)
 
