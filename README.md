@@ -11,7 +11,7 @@
 
 <h3 align="left">👨‍💻 ABOUT ME:</h3>
 
-- 🔭 I’m currently working on [Music.AI](https://github.com/MusicAI-Org)
+- 🔭 I’m currently working on [Flux-DB](https://github.com/PAARTH2608/FluxDB)
 
 - 🌱 I’m currently learning **Rust, Springboot and Docker and Kubernetes**
 
