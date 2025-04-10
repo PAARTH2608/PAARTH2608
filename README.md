@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **jain.paarth2608@gmail.com**
 
-- 📄 Know about my experiences [RESUME](https://drive.google.com/file/d/1KIaM8c9BPpRwJO8FrGRJ99v3xdY5UZE-/view?usp=drive_link)
+- 📄 Know about my experiences [RESUME](https://drive.google.com/file/d/1LLG4iAQpc-Z0ZIv1ub8tI-HMopPZq8m9/view?usp=drive_link)
 
 - ⚡ Fun fact **I love sauce more than sausages**
 - 👩‍💻 ****ACHIEVEMENT**** Our team won 2nd prize and best design in Vinhack'23 for developing a full stack solution to the problem faced by patients and for early response time and efficient management of the hospital system [DOC-UDI](https://github.com/DOC-UDI)
