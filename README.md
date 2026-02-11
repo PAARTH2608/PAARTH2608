@@ -27,6 +27,7 @@
 - 👩‍💻 ****ACHIEVEMENT**** Our team won 2nd prize and best design in Vinhack'23 for developing a full stack solution to the problem faced by patients and for early response time and efficient management of the hospital system [DOC-UDI](https://github.com/DOC-UDI)
 
 <h3 align="left">📰 ARTICLES:</h3>
+- 💡 Kafka Beyond the Basics: Architecture, Internals, and Interview Prep [Link](https://medium.com/p/3354c0ab7819)
 
 - 🦀 Flux-DB: A Minimalist NoSQL Database in Rust Using LSM Trees [Link](https://medium.com/@paarth.jain/flux-db-a-minimalist-nosql-database-in-rust-using-lsm-trees-f3d5f78f2904)
 
